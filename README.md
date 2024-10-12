@@ -2,6 +2,9 @@
 
 A dynamic to-do list application built with React, featuring local storage persistence. Users can add, mark as complete, delete, and filter tasks. 
 
+## Todo APP demo: 
+ https://www.loom.com/share/1495e75c0dad49f6a1e5f924a0e57dcc
+ 
 ## Features
 
 - Add new tasks
